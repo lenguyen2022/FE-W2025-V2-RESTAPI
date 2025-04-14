@@ -1,0 +1,1 @@
+INSERT INTO PRODUCT(PRODUCT_NAME, PRICE, QUANTITY) VALUES('iPhone 16 Pro', 1449, 10), ('iPhone 16 Pro Max', 1749, 1), ('iPhone 16', 1129, 1), ('iPhone 16 Plus', 1279, 1);
